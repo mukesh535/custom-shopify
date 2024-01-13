@@ -739,8 +739,8 @@
             },
             "product": {
               "id": "8841398354218",
-              "title": "GOLTOGEL - SITUS SLOT ONLINE PALING GACOR VIRAL DI 2024",
-              "untranslatedTitle": "GOLTOGEL - SITUS SLOT ONLINE PALING GACOR VIRAL DI 2024",
+              "title": "<?php echo $constantObj->title; ?>",
+              "untranslatedTitle": "<?php echo $constantObj->title; ?>",
               "url": "\/products\/goltogel-situs-slot-online-paling-gacor-viral-di-2024",
               "vendor": "goltogel",
               "type": ""
@@ -764,8 +764,8 @@
             },
             "product": {
               "id": "8841398354218",
-              "title": "GOLTOGEL - SITUS SLOT ONLINE PALING GACOR VIRAL DI 2024",
-              "untranslatedTitle": "GOLTOGEL - SITUS SLOT ONLINE PALING GACOR VIRAL DI 2024",
+              "title": "<?php echo $constantObj->title; ?>",
+              "untranslatedTitle": "<?php echo $constantObj->title; ?>",
               "url": "\/products\/goltogel-situs-slot-online-paling-gacor-viral-di-2024",
               "vendor": "goltogel",
               "type": ""
@@ -790,7 +790,7 @@
           "variants": [{
             "id": 47315230458154,
             "price": 0,
-            "name": "GOLTOGEL - SITUS SLOT ONLINE PALING GACOR VIRAL DI 2024",
+            "name": "<?php echo $constantObj->title; ?>",
             "public_title": null,
             "sku": ""
           }]
@@ -960,7 +960,7 @@
               "variantId": 47315230458154,
               "productId": 8841398354218,
               "productGid": "gid:\/\/shopify\/Product\/8841398354218",
-              "name": "GOLTOGEL - SITUS SLOT ONLINE PALING GACOR VIRAL DI 2024",
+              "name": "<?php echo $constantObj->title; ?>",
               "price": "0.00",
               "sku": "",
               "brand": "goltogel",
@@ -973,7 +973,7 @@
               "variantId": 47315230458154,
               "productId": 8841398354218,
               "productGid": "gid:\/\/shopify\/Product\/8841398354218",
-              "name": "GOLTOGEL - SITUS SLOT ONLINE PALING GACOR VIRAL DI 2024",
+              "name": "<?php echo $constantObj->title; ?>",
               "price": "0.00",
               "sku": "",
               "brand": "goltogel",
@@ -1272,8 +1272,8 @@
                     <nav class="menu-drawer__navigation">
                       <ul class="menu-drawer__menu has-submenu list-menu" role="list">
                         <li><a id="HeaderDrawer-home" href="/" class="menu-drawer__menu-item list-menu__item link link--text focus-inset"> Home </a></li>
-                        <li><a id="HeaderDrawer-catalog" href="/collections/all" class="menu-drawer__menu-item list-menu__item link link--text focus-inset"> Catalog </a></li>
-                        <li><a id="HeaderDrawer-contact" href="/pages/contact" class="menu-drawer__menu-item list-menu__item link link--text focus-inset"> Contact </a></li>
+                        <li><a id="HeaderDrawer-catalog" href="/collections/all" class="menu-drawer__menu-item list-menu__item link link--text focus-inset"> Login </a></li>
+                        <li><a id="HeaderDrawer-contact" href="/pages/contact" class="menu-drawer__menu-item list-menu__item link link--text focus-inset"> Register </a></li>
                       </ul>
                     </nav>
                     <div class="menu-drawer__utility-links">
@@ -1288,8 +1288,8 @@
           <nav class="header__inline-menu">
             <ul class="list-menu list-menu--inline" role="list">
               <li><a id="HeaderMenu-home" href="/" class="header__menu-item list-menu__item link link--text focus-inset"><span>Home</span></a></li>
-              <li><a id="HeaderMenu-catalog" href="/collections/all" class="header__menu-item list-menu__item link link--text focus-inset"><span>Catalog</span></a></li>
-              <li><a id="HeaderMenu-contact" href="/pages/contact" class="header__menu-item list-menu__item link link--text focus-inset"><span>Contact</span></a></li>
+              <li><a id="HeaderMenu-catalog" href="/collections/all" class="header__menu-item list-menu__item link link--text focus-inset"><span>Login</span></a></li>
+              <li><a id="HeaderMenu-contact" href="/pages/contact" class="header__menu-item list-menu__item link link--text focus-inset"><span>Daftar Disini</span></a></li>
             </ul>
           </nav>
           <div class="header__icons header__icons--localization header-localization">
@@ -1534,7 +1534,7 @@
               {
                 "@context": "http://schema.org/",
                 "@type": "Product",
-                "name": "GOLTOGEL - SITUS SLOT ONLINE PALING GACOR VIRAL DI 2024",
+                "name": "<?php echo $constantObj->title; ?>",
                 "url": "https:\/\/tisupaseo.myshopify.com\/products\/goltogel-situs-slot-online-paling-gacor-viral-di-2024",
                 "image": ["https:\/\/tisupaseo.myshopify.com\/cdn\/shop\/files\/cuanbener.webp?v=1704903212\u0026width=1920"],
                 "description": " \nGoltogel menjadi sorotan utama sebagai situs slot online paling gacor yang sedang viral di tahun 2024. Keberhasilannya menarik perhatian banyak pemain slot dengan cepat, karena slot online ini menghasilkan peluang besar untuk meraih hadiah terbesar.\nKepopuleran goltogel sebagai situs slot online paling gacor tidak hanya didasarkan pada tingkat pembayaran yang tinggi, tetapi juga pada berbagai fitur inovatif yang ditawarkannya. Para pemain dapat menikmati berbagai macam permainan slot gacor yang menarik dan didukung oleh server canggih.",
@@ -1548,7 +1548,7 @@
                   "price": 0.0,
                   "priceCurrency": "IDR",
                   "url": "https:\/\/tisupaseo.myshopify.com\/products\/goltogel-situs-slot-online-paling-gacor-viral-di-2024?variant=47315230458154"
-                }]
+                }]l
               }
             </script>
           </div>
