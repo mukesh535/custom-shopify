@@ -1,0 +1,1 @@
+/*Customr template create for th sopify*/
